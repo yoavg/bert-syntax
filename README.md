@@ -6,7 +6,7 @@ Assesing the syntactic abilities of BERT.
 
 Evaluate Google's BERT-Base and BERT-Large models on the syntactic agreement datasets from [Linzen, Goldberg and Dupoux 2016](https://arxiv.org/abs/1611.01368) and [Marvin and Linzen 2018](https://arxiv.org/abs/1808.09031) and [Gulordava et al 2018](http://aclweb.org/anthology/N18-1108).
 
-This is quite messy, as I hacked it together between things here and there. But I also believe it is accurate. This lists the data files and shows how to run the evaluation. For more details and results, see the [arxiv report](https://arxiv.org/abs/TBD).
+This is quite messy, as I hacked it together between things here and there. But I also believe it is accurate. This lists the data files and shows how to run the evaluation. For more details and results, see the [arxiv report](https://arxiv.org/abs/1901.05287).
 
 ## Data Files
 
